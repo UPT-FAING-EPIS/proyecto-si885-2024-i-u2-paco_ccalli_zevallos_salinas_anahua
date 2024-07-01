@@ -5,7 +5,7 @@
 ## Integrantes:
 1. Ccalli Chata, Joel Robert
 2. Anahua Coaquira, Mayner Gonzalo
-3. Zeballos Purca, Justin Zinedine
+3. Zevallos Purca, Justin Zinedine
 4. Paco Ramos Aaron Pedro
 5. Salinas Condori, Erick Javier
 
